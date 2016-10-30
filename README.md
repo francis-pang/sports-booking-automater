@@ -12,4 +12,4 @@ The user can put in multiple time range they want to book the court for. For exa
 ### Booking on the fly 
 If the user wants to book the court on fly, and his information is pre-configured in the program. All he needs to do is to select the court he wants and he can book it immediately. This might not be such a strong feature because that is what you can do in the Sports Hub booking website as well.
 
-![Interaction between Actor, Sports Bookng Automater & Sports Hub Booking System](https://s15.postimg.org/kj1tphe23/Class_Diagram1_Booking_Automater.png)
+![Interaction between Actor, Sports Bookng Automater & Sports Hub Booking System](https://s15.postimg.org/w9kcklw8b/Sequence_Diagram1_Booking_through_Booking_Autom.png)
