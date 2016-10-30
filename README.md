@@ -11,3 +11,4 @@ A booking slot of the facility is one hour by default. If the user wants to play
 The user can put in multiple time range they want to book the court for. For example, you can put in such time: 23-October-2016 07:00am – 10:00am, then 23-October-2016 02:00 – 05:00pm. With this, you can indicate your availability in advanced.
 ### Booking on the fly 
 If the user wants to book the court on fly, and his information is pre-configured in the program. All he needs to do is to select the court he wants and he can book it immediately. This might not be such a strong feature because that is what you can do in the Sports Hub booking website as well.
+![Interaction between Actor, Sports Bookng Automater & Sports Hub Booking System](https://s15.postimg.org/7ew9csm07/Class_Diagram1_Booking_Automater.png)
